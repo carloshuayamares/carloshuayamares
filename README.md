@@ -1,5 +1,5 @@
 <h1> Hi, I’m Carlos Huayamares 👋👨🏽‍💻</h1>
-<h2> I'm a Developer, and Telecomunication Enginner!! <a href='https://www.linkedin.com/in/carlos-alberto-huayamares-de-la-cruz-4923211a1/' target="_blank" rel="nofollow">@carloshuayamares</a> </h2>
+<h2> I'm a Developer, and Telecomunication Enginner!! <a target='_blank' href='https://www.linkedin.com/in/carlos-alberto-huayamares-de-la-cruz-4923211a1/'>@carloshuayamares</a> </h2>
 
 ###
 - 👀 I’m interested in JavaScript and related technologies that improve its use. I currently work with NodeJS for the Telecommunications sector📡.
