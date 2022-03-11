@@ -9,7 +9,7 @@
 ```javascript
   const carloshuayamares = {
       code: [ JavaScript, HTML, CSS, Python, Java ],
-      tools: [ NodeJS, MongoDB, MySQL, EJS, Linux ],
+      tools: [ NodeJS, MongoDB, MySQL, PostgreSQL, EJS, Linux, Git ],
       workplace: [{ 
           company: 'UNCODEIT EIRL', 
           position: 'Full Stack Developer' 
@@ -18,8 +18,16 @@
   }
 ```
 
-- 📫 How to reach me carlos.huayamares.d@uni.pe or +51 992814161
+- 📫 How to reach me carlos.huayamares.d@uni.pe or +51 992 814 161
+<br>
+<hr></hr>
 
+<h2> STATS 📚</h2>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshuayamares&hide=contribs,prs)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshuayamares&layout=compact)](https://github.com/carloshuayamares/github-readme-stats)
 <!---
 carloshuayamares/carloshuayamares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
