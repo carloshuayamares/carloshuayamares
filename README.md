@@ -8,9 +8,12 @@
 
 ```javascript
   const carloshuayamares = {
-      code: { JavaScript, HTML, CSS, Python, Java },
+      code: [ JavaScript, HTML, CSS, Python, Java ],
       tools: [ NodeJS, MongoDB, MySQL, EJS, Linux ],
-      workplace: [{ company: 'UNCODEIT EIRL', position: 'Full Stack Developer' }],
+      workplace: [{ 
+          company: 'UNCODEIT EIRL', 
+          position: 'Full Stack Developer' 
+      }],
       challenge2022: 'Get Professional Diploma in Advanced Computing in C-DAC ACTS',
   }
 ```
