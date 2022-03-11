@@ -2,7 +2,7 @@
 <h2> I'm a Developer, and Telecomunication Enginner!! <a target='_blank' href='https://www.linkedin.com/in/carlos-alberto-huayamares-de-la-cruz-4923211a1/'>@carloshuayamares</a> </h2>
 
 ###
-- 👀 I’m interested in JavaScript and related technologies that improve its use. I currently work with NodeJS for the Telecommunications sector📡.
+- ⚡ I’m interested in JavaScript and related technologies that improve its use. I currently work with NodeJS for the Telecommunications sector📡.
 - 🌱 I am currently learning NestJS and REACT.
 - 👣 A little more about me:
 
@@ -15,6 +15,7 @@
           position: 'Full Stack Developer' 
       }],
       challenge2022: 'Get Professional Diploma in Advanced Computing in C-DAC ACTS',
+      funFact: [ 'Valorant Player', 'Soccer Player', 'Music Lover']
   }
 ```
 
@@ -25,9 +26,11 @@
 <h2> STATS 📚</h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshuayamares&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshuayamares&show_icons=true&theme=radical&hide=contribs,prs)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshuayamares&layout=compact)](https://github.com/carloshuayamares/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshuayamares&layout=compact&show_icons=true&theme=radical)](https://github.com/carloshuayamares/github-readme-stats)
+<br>
+Comming soon more ... 👀
 <!---
 carloshuayamares/carloshuayamares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
