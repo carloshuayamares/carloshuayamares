@@ -3,20 +3,30 @@
 
 ###
 - ⚡ I’m interested in JavaScript and related technologies that improve its use. I currently work with NodeJS for the Telecommunications sector📡.
-- 🌱 I am currently learning NestJS and REACT.
+- 🌱 I am currently learning REACT.
 - 👣 A little more about me:
 
 ```javascript
-  const carloshuayamares = {
-      code: [ JavaScript, HTML, CSS, Python, Java ],
-      tools: [ NodeJS, MongoDB, MySQL, PostgreSQL, EJS, Linux, Git ],
-      workplace: [{ 
-          company: 'UNCODEIT EIRL', 
-          position: 'Full Stack Developer' 
-      }],
-      challenge2022: 'Get Professional Diploma in Advanced Computing in C-DAC ACTS',
-      funFact: [ 'Valorant Player', 'Soccer Player', 'Music Lover']
-  }
+  const carlosHuayamares = {
+  
+      "tools": {
+          "Programming": [ "Node.Js", "Javascript", "Typescript", "Python", "Java" ],
+          "Web - Frontend": [ "EJS", "HTML5", "CSS" ],
+          "Web - Backend": [ "Express with Node.JS", "Nest with Node.JS", "Django with Python" ],
+          "Database": [ "MongoDB", "MySQL", "PostgreSQL" ]
+      },
+
+      "workplace": {
+          "company": "UNCODEIT EIRL",
+          "position": "Full Stack Developer",
+          "experience": "1 year"
+      },
+
+      "challenge2022": "Get Professional Diploma in Advanced Computing in C-DAC ACTS",
+
+      "funFact": [ "Valorant Player", "Soccer Player", "Music Lover"]
+
+   }
 ```
 
 - 📫 How to reach me carlos.huayamares.d@uni.pe or +51 992 814 161
@@ -30,6 +40,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloshuayamares&layout=compact&show_icons=true&theme=radical)](https://github.com/carloshuayamares/github-readme-stats)
 <br>
+
 Comming soon more ... 👀
 <!---
 carloshuayamares/carloshuayamares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
