@@ -7,22 +7,23 @@
 - 👣 A little more about me:
 
 ```javascript
-  const carlosHuayamares = {
+  const carlosHuayamares = { 
   
       "tools": {
           "Programming": [ "Node.Js", "Javascript", "Typescript", "Python", "Java" ],
           "Web - Frontend": [ "EJS", "HTML5", "CSS" ],
           "Web - Backend": [ "Express with Node.JS", "Nest with Node.JS", "Django with Python" ],
-          "Database": [ "MongoDB", "MySQL", "PostgreSQL" ]
+          "Database": [ "MongoDB", "MySQL", "PostgreSQL" ],
+          "Containers": [ "Docker" ],
       },
 
       "workplace": {
           "company": "UNCODEIT EIRL",
           "position": "Full Stack Developer",
-          "experience": "1 year"
+          "experience": "2 year"
       },
 
-      "challenge2022": "Get Professional Diploma in Advanced Computing in C-DAC ACTS",
+      "challenge2023": "Get Professional Diploma in Advanced Computing in C-DAC ACTS",
 
       "funFact": [ "Valorant Player", "Soccer Player", "Music Lover"]
 
