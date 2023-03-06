@@ -16,6 +16,9 @@
           "Database": [ "MongoDB", "MySQL", "PostgreSQL" ],
           "Containers": [ "Docker" ],
       },
+      
+      "Version controller": [ "GitHub", ]
+      "DevOps": ["GitLab", "Jira"]
 
       "workplace": {
           "company": "UNCODEIT EIRL",
