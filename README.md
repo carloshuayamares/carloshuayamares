@@ -33,11 +33,18 @@
       "Version controller": [ "GitHub", ]
       "DevOps": ["GitLab", "Jira"]
 
-      "workplace": {
+      "workplace": [
+        {
+          "company": "Enotria SA.",
+          "position": "Backend Developer",
+          "experience": "Actualy"
+        },
+        {
           "company": "UNCODEIT EIRL",
           "position": "Full Stack Developer",
-          "experience": "2 year"
-      },
+          "experience": "3 year"
+        }
+      ],
 
       "challenge2023": "Get Professional Diploma in Advanced Computing in C-DAC ACTS",
 
