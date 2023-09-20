@@ -10,11 +10,24 @@
   const carlosHuayamares = { 
   
       "tools": {
-          "Programming": [ "Node.Js", "Javascript", "Typescript", "Python", "Java" ],
-          "Web - Frontend": [ "EJS", "HTML5", "CSS" ],
-          "Web - Backend": [ "Express with Node.JS", "Nest with Node.JS", "Django with Python" ],
+          "Backend": {
+            "Languages": [ "Node.Js", "Javascript", "Typescript", "Python" ],
+            "Frameworks": [ "Express", "Nest.js", "Serverless", "Django" ],
+          },
+          "Frontend": {
+            "Languages": [ "HTML5", "CSS" ],
+            "Frameworks": [ "Angular", "EJS", "React" ],
+          },
           "Database": [ "MongoDB", "MySQL", "PostgreSQL" ],
-          "Containers": [ "Docker" ],
+          "Cloud": {
+            "AWS": {
+              "Services": ["Lambda", "API Gateway", "DynamoDB", "S3"],
+            },
+            "GCP": {
+              "Services": ["Compute Engine", "Cloud Storage", "Cloud SQL"],
+            },
+          },
+          "Containers": [ "Docker", "POD's" ],
       },
       
       "Version controller": [ "GitHub", ]
