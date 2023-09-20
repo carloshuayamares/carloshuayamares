@@ -11,21 +11,28 @@
   
       "tools": {
           "Backend": {
+
             "Languages": [ "Node.Js", "Javascript", "Typescript", "Python" ],
             "Frameworks": [ "Express", "Nest.js", "Serverless", "Django" ],
+
           },
           "Frontend": {
+
             "Languages": [ "HTML5", "CSS" ],
             "Frameworks": [ "Angular", "EJS", "React" ],
+
           },
           "Database": [ "MongoDB", "MySQL", "PostgreSQL" ],
           "Cloud": {
+
             "AWS": {
               "Services": ["Lambda", "API Gateway", "DynamoDB", "S3"],
             },
+
             "GCP": {
               "Services": ["Compute Engine", "Cloud Storage", "Cloud SQL"],
             },
+
           },
           "Containers": [ "Docker", "POD's" ],
       },
