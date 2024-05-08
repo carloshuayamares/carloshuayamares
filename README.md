@@ -26,7 +26,7 @@
           "Cloud": {
 
             "AWS": {
-              "Services": ["Lambda", "API Gateway", "DynamoDB", "S3"],
+              "Services": ["Lambda", "API Gateway", "DynamoDB", "S3", "Step Functions", "Serverless"],
             },
 
             "GCP": {
@@ -42,18 +42,23 @@
 
       "workplace": [
         {
-          "company": "Enotria SA.",
+          "company": "Softtek",
           "position": "Backend Developer",
           "experience": "Actualy"
         },
         {
+          "company": "Enotria SA.",
+          "position": "Backend Developer",
+          "experience": "1 year"
+        },
+        {
           "company": "UNCODEIT EIRL",
           "position": "Full Stack Developer",
-          "experience": "3 year"
+          "experience": "2 year"
         }
       ],
 
-      "challenge2023": "Get Professional Diploma in Advanced Computing in C-DAC ACTS",
+      "challenge2024": "Get Professional Diploma in Advanced Computing in C-DAC ACTS",
 
       "funFact": [ "Valorant Player", "Soccer Player", "Music Lover"]
 
