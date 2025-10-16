@@ -22,6 +22,9 @@
             "Frameworks": [ "Angular", "EJS", "React" ],
 
           },
+          "Certifications": [
+            "AWS Certified Developer – Associate (Amazon Web Services Training and Certification)"
+          ],
           "Database": [ "MongoDB", "MySQL", "PostgreSQL" ],
           "Cloud": {
 
@@ -57,9 +60,6 @@
           "experience": "2 year"
         }
       ],
-
-      "challenge2024": "Get Professional Diploma in Advanced Computing in C-DAC ACTS",
-
       "funFact": [ "Valorant Player", "Soccer Player", "Music Lover"]
 
    }
