@@ -2,8 +2,8 @@
 <h2> I'm a Developer, and Telecomunication Enginner!! <a target='_blank' href='https://www.linkedin.com/in/carlos-alberto-huayamares-de-la-cruz-4923211a1/'>@carloshuayamares</a> </h2>
 
 ###
-- ⚡ I’m interested in JavaScript and related technologies that improve its use. I currently work with NodeJS for the Telecommunications sector📡.
-- 🌱 I am currently learning REACT.
+- ⚡ I’m interested in JavaScript and related technologies that improve its use. I currently work with NodeJS for the Insurance sector.
+- 🌱 I am currently learning Generative IA.
 - 👣 A little more about me:
 
 ```javascript
